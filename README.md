@@ -116,7 +116,6 @@ The dashboard will allow:
 5. Project Structure
 --------------------
 
-.
 ├── reddit_fetcher.py          # Reddit data acquisition module
 ├── classifier_app.py          # Main Streamlit application
 ├── models/                    # Optional model storage
@@ -151,5 +150,3 @@ The dashboard will allow:
 - Correlation with external news or financial data
 - Real-time monitoring and alerts
 - Multi-language emotion classification
-your.email@example.com
-
